@@ -5,5 +5,7 @@ One day, he wrote buggy code! But thankfully he was able to reset to an
 earlier commit. Instead of having to rewrite his entire project, he was
 able to just restart the buggy feature.
 
-
 write an ending here
+
+this is a really intresting story an I had fun reading it!
+
